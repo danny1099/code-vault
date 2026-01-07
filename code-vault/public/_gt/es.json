@@ -1,0 +1,38 @@
+{
+  "ddf7aecbfd385f31": "Pulsa aquí",
+  "0b027d147f86bfbf": "Prueba de texto de notificación",
+  "ddf7cfbfbe8b931e": "Tu aplicación funciona sin problemas",
+  "f449350f3e2a140a": "Nuevas actualizaciones están disponibles",
+  "84254ed41f3e7370": "Tienes un nuevo mensaje",
+  "8004770770537b65": "Tus configuraciones han sido guardadas",
+  "8894ff97baf2bc17": [
+    {
+      "t": "h1",
+      "i": 1,
+      "c": "Tus Tareas, Tu Flujo"
+    },
+    {
+      "t": "p",
+      "i": 2,
+      "c": "Agrega los detalles y haz que tus ideas tomen acción."
+    },
+    {
+      "t": "Button",
+      "i": 3
+    }
+  ],
+  "e431be23edaef9dd": {
+    "t": "a",
+    "i": 1,
+    "c": [
+      {
+        "t": "Image",
+        "i": 2,
+        "d": {
+          "alt": "Vercel logomark"
+        }
+      },
+      "Desplegar Ahora"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ddf7aecbfd385f31": "Klick mich",
+  "0b027d147f86bfbf": "Testbenachrichtigungstext",
+  "ddf7cfbfbe8b931e": "Deine App läuft reibungslos",
+  "f449350f3e2a140a": "Neue Updates sind verfügbar",
+  "84254ed41f3e7370": "Du hast eine neue Nachricht",
+  "8004770770537b65": "Deine Einstellungen wurden gespeichert",
+  "8894ff97baf2bc17": [
+    {
+      "t": "h1",
+      "i": 1,
+      "c": "Bring deine Ideen zum Leben"
+    },
+    {
+      "t": "p",
+      "i": 2,
+      "c": "Füge Details hinzu und lass deine Ideen Wirklichkeit werden."
+    },
+    {
+      "t": "Button",
+      "i": 3
+    }
+  ],
+  "e431be23edaef9dd": {
+    "t": "a",
+    "i": 1,
+    "c": [
+      {
+        "t": "Image",
+        "i": 2,
+        "d": {
+          "alt": "Vercel "
+        }
+      },
+      "Deploy mit Vercel"
+    ]
+  }
+}
